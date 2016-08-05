@@ -113,9 +113,6 @@ QCOM_BT_USE_SMD_TTY := true
 TARGET_AUDIOHAL_VARIANT := samsung
 TARGET_POWERHAL_VARIANT := samsung
 
-# Graphics
-USE_OPENGL_RENDERER := true
-
 # VR Front buffer
 #BOARD_USES_VR_FRONT_BUFFER := true
 
