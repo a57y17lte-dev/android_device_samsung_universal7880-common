@@ -339,6 +339,10 @@ PRODUCT_PACKAGES += \
     libhwbinder \
     vndservicemanager
 
+# Speed profile services and wifi-service to reduce RAM and storage
+PRODUCT_SYSTEM_SERVER_COMPILER_FILTER := speed-profile
+
+
 # System.prop
 TARGET_SYSTEM_PROP += device/samsung/universal7880-common/system.prop
 
