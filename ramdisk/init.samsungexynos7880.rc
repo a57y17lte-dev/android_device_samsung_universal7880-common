@@ -23,6 +23,9 @@ on init
 
     write /proc/sys/vm/page-cluster 0
 
+    # Charger
+    chown system system /sys/class/power_supply/battery/batt_slate_mode
+
 on post-fs-data
 # Log data folder
     # mkdir /data/log 0771 radio system
