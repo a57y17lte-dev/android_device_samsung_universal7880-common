@@ -17,6 +17,7 @@
 COMMON_PATH := device/samsung/universal7880-common
 
 BUILD_BROKEN_DUP_RULES := true
+BOARD_USES_EXYNOS5_COMMON_GRALLOC := true
 
 # Include path
 TARGET_SPECIFIC_HEADER_PATH := $(COMMON_PATH)/include
