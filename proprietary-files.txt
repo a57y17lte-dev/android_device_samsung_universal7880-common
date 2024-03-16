@@ -14,7 +14,7 @@ lib/com.qualcomm.qti.ant@1.0.so
 lib64/com.qualcomm.qti.ant@1.0.so
 lib/vendor.samsung.hardware.bluetooth@1.0.so
 lib64/vendor.samsung.hardware.bluetooth@1.0.so
-vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti
+vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti|153fdb9916490edeab9b8c5888d175fafd2449f0
 vendor/lib/hw/com.qualcomm.qti.ant@1.0-impl.so
 vendor/lib64/hw/com.qualcomm.qti.ant@1.0-impl.so
 vendor/lib/hw/android.hardware.bluetooth@1.0-impl-qti.so
