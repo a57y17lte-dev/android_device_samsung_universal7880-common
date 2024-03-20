@@ -66,6 +66,9 @@ TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_HEADER_ARCH := arm64
 TARGET_LINUX_KERNEL_VERSION := 3.18
 
+# Kernel - prebuilt
+TARGET_FORCE_PREBUILT_KERNEL := true
+
 # Kernel config
 TARGET_KERNEL_SOURCE := kernel/samsung/universal7880
 
