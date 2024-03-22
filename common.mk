@@ -186,10 +186,6 @@ PRODUCT_PACKAGES += \
     wpa_supplicant \
     wpa_supplicant.conf
 
-# BatteryLifeExtender
-PRODUCT_PACKAGES += \
-    vendor.lineage.batterylifeextender@1.0-service.samsung
-
 # Bluetooth
 PRODUCT_PACKAGES += \
     android.hardware.bluetooth@1.0 \
